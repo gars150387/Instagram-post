@@ -46,7 +46,7 @@ img{
     width: 95px;
     height: 15px;
     display: inline-block;
-    left: 35px;
+    left: 39px;
     top: 2px;
     position: relative;
     bottom: 3px;
@@ -79,9 +79,12 @@ img{
     /*height: 5px;*/
     float: left;
     position: absolute;
-    top: 22px;
+    top: 5px;
     left: 13px;
     /*vertical-align: middle;*/
+}
+.icon-1{
+    font-size: 18px;
 }
 .icon2{
     float: right;
